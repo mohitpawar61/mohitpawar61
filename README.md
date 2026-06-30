@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Pune-India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
@@ -88,7 +88,7 @@ A backend service that integrates the **Protean (NSDL) PAN Verification API** to
 | **Documentation** | Swagger / OpenAPI for endpoint testing and developer collaboration |
 | **Features** | Real-time PAN status & holder verification, PDF & Excel report generation, centralized logging |
 | **Tools** | Maven, Git, GitHub, Postman |
-| **Repository** | [github.com/mohitpawar61](https://github.com/mohitpawar61) |
+| **Repository** | https://github.com/mohitpawar61/PanVerification.git |
 
 **Key Contributions**
 - Integrated the Protean (NSDL) PAN Verification API for real-time PAN status and holder validation, including PFX certificate-based authentication
@@ -113,7 +113,7 @@ A full-stack, microservices-based payment processing system integrating **Razorp
 | **Frontend** | Responsive multi-step checkout UI built with CSS Grid, Flexbox, and CSS custom properties; mobile breakpoints for desktop, tablet, and mobile |
 | **Integration** | Fetch API with async/await for live order creation and real-time payment status updates |
 | **Tools** | Maven, Git, GitHub |
-| **Repository** | [github.com/mohitpawar61](https://github.com/mohitpawar61) |
+| **Repository** | https://github.com/mohitpawar61/PaymentSystem.git | https://github.com/mohitpawar61/NotificationService.git |
 
 **Key Contributions**
 - Developed a Spring Boot backend integrating the Razorpay API for secure order creation and payment verification
@@ -136,7 +136,7 @@ An AI-powered resume analysis tool built with **Spring Boot** and **Spring AI**,
 | **AI Integration** | Gemini / OpenAI APIs for resume evaluation and ATS-focused feedback generation |
 | **Features** | Resume upload, AI-driven analysis, enhancement recommendations |
 | **Tools** | Maven, Git, GitHub |
-| **Repository** | [github.com/mohitpawar61](https://github.com/mohitpawar61) |
+| **Repository** | https://github.com/mohitpawar61/ResumeAnalyser.git |
 
 **Key Contributions**
 - Developed an AI-powered Resume Analyzer using Spring Boot and Spring AI
@@ -158,7 +158,7 @@ A full-stack, BookMyShow-inspired movie ticket booking platform with a Spring Bo
 | **Admin Panel** | Tabbed management for Cities, Movies, Theaters, Screens, Seats (Regular/Premium/VIP), and Shows via a custom `api.js` layer (apiGet, apiPost, apiPut, apiDelete) |
 | **Booking Flow** | Interactive seat selection with a visual seat map (available/selected/booked states), real-time seat availability checks, booking creation and cancellation via `BookingAPI` with async/await |
 | **Frontend** | Responsive multi-page UI with CSS Grid/Flexbox, movie search & filtering by genre/language, city-based theater browsing, toast notifications, modals, loading spinners, and localStorage-based session management |
-| **Repository** | [github.com/mohitpawar61](https://github.com/mohitpawar61) |
+| **Repository** | https://github.com/mohitpawar61/BookMyShow_Backend.git |
 
 **Key Contributions**
 - Built a full stack movie ticket booking system with JWT authentication and Spring Security role-based authorization
