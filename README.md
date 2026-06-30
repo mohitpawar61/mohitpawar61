@@ -40,7 +40,7 @@
 
 ## 🧠 About Me
 
-> _Replace this with your real bio — sample structure below_
+> 
 
 I'm a **Java Full Stack Developer** focused on building reliable, scalable backend systems and clean, performant web applications. I enjoy working across the stack — from designing REST APIs and data models to shipping polished frontend experiences — with a strong emphasis on **software engineering fundamentals**, **clean architecture**, and **product thinking**.
 
@@ -56,55 +56,41 @@ I'm currently deepening my skills in **AI/ML-assisted engineering**, exploring h
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,js,py,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,sql&theme=dark" />
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,Angular&theme=dark" />
 
 **Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,java,nodejs,mysql,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,java,mysql&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,kafka,redis,swagger&theme=dark" />
 
 <br/>
 
----
-
-## 🤖 AI / ML Expertise
-
-> _Fill in real proficiency levels — placeholder table below_
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning Fundamentals | ⭐⭐⭐☆☆ | Supervised learning, model evaluation basics |
-| AI-Assisted Development | ⭐⭐⭐⭐☆ | Using LLM tooling to accelerate engineering workflows |
-| Data Handling & Analysis | ⭐⭐⭐☆☆ | Pandas, basic data pipelines |
-| Prompt Engineering | ⭐⭐⭐⭐☆ | Structuring prompts for reliable LLM output |
-
-<br/>
-
----
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Project One — Replace with real project name</b></summary>
+<summary><b>🔹Pan Verification Service</b></summary>
 <br/>
 
-Short professional description of what the project does and the problem it solves.
+A backend service that integrates the Protean (NSDL) PAN Verification API to perform real-time validation of PAN details — including PAN status and holder information — for accurate, secure identity verification. Built with a strong focus on security, reliability, and clean API design, the service exposes RESTful endpoints backed by Spring Security (JWT) and full request validation.
 
-| Aspect | Details |
-|---|---|
-| **Stack** | Java, Spring Boot, MySQL, React |
-| **Scale** | e.g. 10k+ records / X concurrent users |
-| **Performance** | e.g. avg response time, caching strategy |
-| **Security** | e.g. JWT auth, role-based access control |
-| **Impact** | e.g. reduced manual process time by X% |
-| **Repository** | [github.com/mohitpawar61/project-one](https://github.com/mohitpawar61) |
+AspectDetailsStackJava, Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQLIntegrationProtean (NSDL) PAN Verification API with PFX certificate-based authenticationSecurityJWT-based authentication, role-based authorization, centralized exception handling, request validationDocumentationSwagger / OpenAPI for endpoint testing and developer collaborationFeaturesReal-time PAN status & holder verification, PDF & Excel report generation, centralized loggingToolsMaven, Git, GitHub, PostmanRepositorygithub.com/mohitpawar61
+
+Key Contributions
+
+
+Integrated the Protean (NSDL) PAN Verification API for real-time PAN status and holder validation, including PFX certificate-based authentication
+Implemented Spring Security with JWT authentication and role-based authorization to secure all API endpoints
+Built RESTful APIs with Spring Data JPA and MySQL, fully documented via Swagger/OpenAPI for easy testing and collaboration
+Added centralized exception handling, request validation, and application-wide logging to improve reliability and maintainability
+Implemented PDF and Excel report generation for verification results
 
 This project demonstrates end-to-end ownership — from schema design and API architecture to frontend integration and deployment.
 
@@ -116,98 +102,20 @@ This project demonstrates end-to-end ownership — from schema design and API ar
 
 Short professional description of what the project does and the problem it solves.
 
-| Aspect | Details |
-|---|---|
-| **Stack** | Node.js, Express, MongoDB |
-| **Scale** | — |
-| **Performance** | — |
-| **Security** | — |
-| **Impact** | — |
-| **Repository** | [github.com/mohitpawar61/project-two](https://github.com/mohitpawar61) |
-
-</details>
-
 <br/>
 
 ---
-
-## 💼 Experience
-
-### Job Title — Company Name
-`Month Year – Month Year`
-
-Brief professional description of your role and responsibilities.
-
-**Scope of Work**
-- Bullet point describing a key responsibility
-- Bullet point describing a key contribution
-- Bullet point describing measurable impact
-
-**Skills:** `Java` `Spring Boot` `REST APIs` `SQL` `Git`
-
-<br/>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Placeholder Award | Description of achievement |
-| Placeholder Recognition | Description of achievement |
-
-</div>
-
-<br/>
-
 ---
 
 ## 📜 Certifications
 
-**AWS**
+**Full Stack Java**
 <br/>
-<img src="https://img.shields.io/badge/AWS-Certification%20Name-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-
-**Oracle**
-<br/>
-<img src="https://img.shields.io/badge/Oracle-Certification%20Name-F80000?style=flat-square&logo=oracle&logoColor=white" />
-
-**NPTEL**
-<br/>
-<img src="https://img.shields.io/badge/NPTEL-Course%20Name-3776AB?style=flat-square&logo=googlescholar&logoColor=white" />
-
-**Cisco**
-<br/>
-<img src="https://img.shields.io/badge/Cisco-Course%20Name-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src=""C:\Users\shubh\Downloads\Blue  Professional Certificate of Completion (10).png"" />
 
 <br/>
 
----
 
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/mohitpawar61">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/mohitpawar61">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/mohitpawar61">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/users/mohitpawar61">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -283,7 +191,6 @@ Exploring:
 Open To:
   - Backend Engineer Roles
   - Full Stack Developer Roles
-  - Freelance / Contract Engineering Work
 ```
 
 <br/>
