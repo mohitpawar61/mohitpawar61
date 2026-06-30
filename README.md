@@ -40,8 +40,6 @@
 
 ## 🧠 About Me
 
-> 
-
 I'm a **Java Full Stack Developer** focused on building reliable, scalable backend systems and clean, performant web applications. I enjoy working across the stack — from designing REST APIs and data models to shipping polished frontend experiences — with a strong emphasis on **software engineering fundamentals**, **clean architecture**, and **product thinking**.
 
 I'm currently deepening my skills in **AI/ML-assisted engineering**, exploring how intelligent tooling can be integrated into real-world products, while staying grounded in solid backend engineering practices using **Java, Spring Boot, and SQL**.
@@ -72,50 +70,117 @@ I'm currently deepening my skills in **AI/ML-assisted engineering**, exploring h
 
 <br/>
 
+---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹Pan Verification Service</b></summary>
+<summary><b>🔹 PAN Verification Service</b></summary>
 <br/>
 
-A backend service that integrates the Protean (NSDL) PAN Verification API to perform real-time validation of PAN details — including PAN status and holder information — for accurate, secure identity verification. Built with a strong focus on security, reliability, and clean API design, the service exposes RESTful endpoints backed by Spring Security (JWT) and full request validation.
+A backend service that integrates the **Protean (NSDL) PAN Verification API** to perform real-time validation of PAN details — including PAN status and holder information — for accurate, secure identity verification. Built with a strong focus on security, reliability, and clean API design, the service exposes RESTful endpoints backed by Spring Security (JWT) and full request validation.
 
-AspectDetailsStackJava, Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQLIntegrationProtean (NSDL) PAN Verification API with PFX certificate-based authenticationSecurityJWT-based authentication, role-based authorization, centralized exception handling, request validationDocumentationSwagger / OpenAPI for endpoint testing and developer collaborationFeaturesReal-time PAN status & holder verification, PDF & Excel report generation, centralized loggingToolsMaven, Git, GitHub, PostmanRepositorygithub.com/mohitpawar61
+| Aspect | Details |
+|---|---|
+| **Stack** | Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQL |
+| **Integration** | Protean (NSDL) PAN Verification API with PFX certificate-based authentication |
+| **Security** | JWT-based authentication, role-based authorization, centralized exception handling, request validation |
+| **Documentation** | Swagger / OpenAPI for endpoint testing and developer collaboration |
+| **Features** | Real-time PAN status & holder verification, PDF & Excel report generation, centralized logging |
+| **Tools** | Maven, Git, GitHub, Postman |
+| **Repository** | [github.com/mohitpawar61](https://github.com/mohitpawar61) |
 
-Key Contributions
-
-
-Integrated the Protean (NSDL) PAN Verification API for real-time PAN status and holder validation, including PFX certificate-based authentication
-Implemented Spring Security with JWT authentication and role-based authorization to secure all API endpoints
-Built RESTful APIs with Spring Data JPA and MySQL, fully documented via Swagger/OpenAPI for easy testing and collaboration
-Added centralized exception handling, request validation, and application-wide logging to improve reliability and maintainability
-Implemented PDF and Excel report generation for verification results
-
-This project demonstrates end-to-end ownership — from schema design and API architecture to frontend integration and deployment.
+**Key Contributions**
+- Integrated the Protean (NSDL) PAN Verification API for real-time PAN status and holder validation, including PFX certificate-based authentication
+- Implemented Spring Security with JWT authentication and role-based authorization to secure all API endpoints
+- Built RESTful APIs with Spring Data JPA and MySQL, fully documented via Swagger/OpenAPI for easy testing and collaboration
+- Added centralized exception handling, request validation, and application-wide logging to improve reliability and maintainability
+- Implemented PDF and Excel report generation for verification results
 
 </details>
 
 <details>
-<summary><b>🔹 Project Two — Replace with real project name</b></summary>
+<summary><b>🔹 Payment & Notification System using Kafka</b></summary>
 <br/>
 
-Short professional description of what the project does and the problem it solves.
+A full-stack, microservices-based payment processing system integrating **Razorpay** for secure order creation and payment verification, with **Apache Kafka** enabling asynchronous, event-driven communication between the Payment and Notification services. On successful payment verification, an event is published to Kafka, automatically triggering a customer email confirmation — decoupling payment processing from notification delivery.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Java, Spring Boot, MySQL, Apache Kafka, HTML5, CSS3, JavaScript (ES6+) |
+| **Architecture** | Microservices — separate Payment Service and Notification Service communicating via Kafka events |
+| **Payments** | Razorpay API integration (order creation, payment verification, Checkout.js SDK) |
+| **Frontend** | Responsive multi-step checkout UI built with CSS Grid, Flexbox, and CSS custom properties; mobile breakpoints for desktop, tablet, and mobile |
+| **Integration** | Fetch API with async/await for live order creation and real-time payment status updates |
+| **Tools** | Maven, Git, GitHub |
+| **Repository** | [github.com/mohitpawar61](https://github.com/mohitpawar61) |
+
+**Key Contributions**
+- Developed a Spring Boot backend integrating the Razorpay API for secure order creation and payment verification
+- Integrated Apache Kafka for asynchronous, event-driven communication between Payment and Notification microservices
+- Automated customer email confirmations triggered by successful payment verification events via Kafka
+- Built a responsive Vanilla JavaScript course enrollment and checkout UI consuming Spring Boot REST APIs in real time
+- Designed a fully responsive multi-step checkout layout using CSS Grid, Flexbox, and custom properties across all device sizes
+
+</details>
+
+<details>
+<summary><b>🔹 AI Resume Analyzer</b></summary>
+<br/>
+
+An AI-powered resume analysis tool built with **Spring Boot** and **Spring AI**, integrating Gemini/OpenAI APIs to evaluate resumes and deliver ATS (Applicant Tracking System)-focused feedback, helping users optimize their resumes for automated screening systems.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Java, Spring Boot, Spring AI |
+| **AI Integration** | Gemini / OpenAI APIs for resume evaluation and ATS-focused feedback generation |
+| **Features** | Resume upload, AI-driven analysis, enhancement recommendations |
+| **Tools** | Maven, Git, GitHub |
+| **Repository** | [github.com/mohitpawar61](https://github.com/mohitpawar61) |
+
+**Key Contributions**
+- Developed an AI-powered Resume Analyzer using Spring Boot and Spring AI
+- Integrated Gemini/OpenAI APIs to evaluate resumes and deliver ATS-focused feedback
+- Created REST APIs for resume upload, analysis, and AI-driven enhancement recommendations
+
+</details>
+
+<details>
+<summary><b>🔹 BookMyShow — Movie Ticket Booking System</b></summary>
+<br/>
+
+A full-stack, BookMyShow-inspired movie ticket booking platform with a Spring Boot backend secured by JWT authentication and role-based authorization, paired with a multi-page Vanilla JavaScript frontend supporting Admin, User, and Guest access flows.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Java, Spring Boot, Spring Security, JWT, MySQL, HTML5, CSS3, JavaScript |
+| **Access Control** | JWT-based authentication with role-based authorization (Admin / User / Guest) |
+| **Admin Panel** | Tabbed management for Cities, Movies, Theaters, Screens, Seats (Regular/Premium/VIP), and Shows via a custom `api.js` layer (apiGet, apiPost, apiPut, apiDelete) |
+| **Booking Flow** | Interactive seat selection with a visual seat map (available/selected/booked states), real-time seat availability checks, booking creation and cancellation via `BookingAPI` with async/await |
+| **Frontend** | Responsive multi-page UI with CSS Grid/Flexbox, movie search & filtering by genre/language, city-based theater browsing, toast notifications, modals, loading spinners, and localStorage-based session management |
+| **Repository** | [github.com/mohitpawar61](https://github.com/mohitpawar61) |
+
+**Key Contributions**
+- Built a full stack movie ticket booking system with JWT authentication and Spring Security role-based authorization
+- Developed a comprehensive Admin Panel with dynamic, API-driven management of cities, movies, theaters, screens, and shows
+- Implemented an interactive seat selection UI with real-time availability checks and booking/cancellation support
+- Designed a fully responsive multi-page frontend with search, filtering, toast notifications, modals, and session management
+
+</details>
 
 <br/>
 
----
 ---
 
 ## 📜 Certifications
 
 **Full Stack Java**
 <br/>
-<img src=""C:\Users\shubh\Downloads\Blue  Professional Certificate of Completion (10).png"" />
+<img src="./assets/full-stack-java-certificate.png" width="400" />
 
 <br/>
 
-
+---
 
 ## 📊 GitHub Analytics
 
