@@ -40,9 +40,10 @@
 
 ## 🧠 About Me
 
-I'm a **Java Full Stack Developer** focused on building reliable, scalable backend systems and clean, performant web applications. I enjoy working across the stack — from designing REST APIs and data models to shipping polished frontend experiences — with a strong emphasis on **software engineering fundamentals**, **clean architecture**, and **product thinking**.
-
-I'm currently deepening my skills in **AI/ML-assisted engineering**, exploring how intelligent tooling can be integrated into real-world products, while staying grounded in solid backend engineering practices using **Java, Spring Boot, and SQL**.
+Java Full Stack Developer with hands-on experience building scalable web applications using Java, Spring Boot, Spring Security, MySQL, Kafka, Docker, and
+REST APIs. Experienced in developing secure authentication systems, payment gateway integrations, and real-world backend projects. On the frontend, proficient
+in HTML5, CSS3, JavaScript, and Angular — building responsive, API-connected UIs. Strong understanding of OOP, Database Management, and Software
+Development best practices. Passionate about building production-ready applications and continuously learning modern technologies.
 
 **🎯 Open To:** Backend Engineer roles · Full Stack roles · Java/Spring Boot opportunities · Freelance/Contract projects
 
