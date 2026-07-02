@@ -177,7 +177,7 @@ A full-stack, BookMyShow-inspired movie ticket booking platform with a Spring Bo
 
 **Full Stack Java**
 <br/>
-<img src="https://www.linkedin.com/posts/mohitpawar61_java-fullstackdeveloper-javadeveloper-share-7474023124586655744-gS4p/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGFEvFEBx6IwjL2Op4VvJBTVv3fWJOU0H6M" />
+<img src="docs/screenshots/Blue  Professional Certificate of Completion (10).png" />
 
 <br/>
 
