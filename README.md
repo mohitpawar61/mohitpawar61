@@ -177,7 +177,7 @@ A full-stack, BookMyShow-inspired movie ticket booking platform with a Spring Bo
 
 **Full Stack Java**
 <br/>
-<img src="docs/screenshots/Blue  Professional Certificate of Completion (10).png" />
+<img src="docs/Blue  Professional Certificate of Completion (10).png" />
 
 <br/>
 
