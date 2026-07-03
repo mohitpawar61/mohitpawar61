@@ -234,8 +234,6 @@ A full-stack, BookMyShow-inspired movie ticket booking platform with a Spring Bo
 
 <br/>
 
-> _Note: The snake animation requires a one-time GitHub Actions workflow setup in your profile repo (`mohitpawar61/mohitpawar61`) to generate the SVG._
-
 ---
 
 ## 🎯 Current Focus
