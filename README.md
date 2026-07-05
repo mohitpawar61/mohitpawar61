@@ -16,6 +16,9 @@
 <a href="https://mohitpawar61.github.io/Portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+<a href="https://mohitpawar61.github.io/Portfolio1/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/mohitpawar61" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
