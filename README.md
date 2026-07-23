@@ -13,9 +13,6 @@
 
 <br/><br/>
 
-<a href="https://mohitpawar61.github.io/Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 <a href="https://mohitpawar61.github.io/Portfolio-Primary/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
