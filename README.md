@@ -186,6 +186,11 @@ A full-stack, BookMyShow-inspired movie ticket booking platform with a Spring Bo
 (https://www.hackerrank.com/certificates/bc0d1c9aaa29)
 <br/>
 
+**Gemini Certified Student**
+<br/>
+(https://www.linkedin.com/posts/mohitpawar61_gemini-certified-student-ugcPost-7400012231767203840-Cs4p/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGFEvFEBx6IwjL2Op4VvJBTVv3fWJOU0H6M)
+<br/>
+
 ---
 
 ## 📊 GitHub Analytics
