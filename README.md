@@ -197,12 +197,12 @@ A full-stack, BookMyShow-inspired movie ticket booking platform with a Spring Bo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohitpawar61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=mohitpawar61&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohitpawar61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true&cache_seconds=86400" width="49%" />
+<img src="https://streak-stats.demolab.com?user=mohitpawar61&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&cache_seconds=86400" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitpawar61&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitpawar61&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=86400" width="45%" />
 
 </div>
 
