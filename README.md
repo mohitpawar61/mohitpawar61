@@ -96,7 +96,7 @@ A backend service that integrates the **Protean (NSDL) PAN Verification API** to
 - Implemented Spring Security with JWT authentication and role-based authorization to secure all API endpoints
 - Built RESTful APIs with Spring Data JPA and MySQL, fully documented via Swagger/OpenAPI for easy testing and collaboration
 - Added centralized exception handling, request validation, and application-wide logging to improve reliability and maintainability
-- Implemented PDF and Excel report generation for verification results
+- Implemented PDF and Excel report generation for verification results.
 
 </details>
 
