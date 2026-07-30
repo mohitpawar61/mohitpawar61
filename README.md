@@ -45,7 +45,7 @@ REST APIs. Experienced in developing secure authentication systems, payment gate
 in HTML5, CSS3, JavaScript, and Angular — building responsive, API-connected UIs. Strong understanding of OOP, Database Management, and Software
 Development best practices. Passionate about building production-ready applications and continuously learning modern technologies.
 
-**🎯 Open To:** Backend Engineer roles · Full Stack roles · Java/Spring Boot opportunities · Freelance/Contract projects
+**🎯 Open To:** Backend Engineer roles · Full Stack roles · Java/Spring Boot opportunities · Freelance/Contract projects.
 
 <br/>
 
